@@ -1,0 +1,25 @@
+### Java template
+.idea
+eagle-claw.iml
+target
+dist
+
+.settings/
+.project
+.classpath
+**/temp/**
+**/build/**
+**/target/**
+**/release/**
+**/bin/**
+*.js.map
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
